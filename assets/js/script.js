@@ -20,5 +20,3 @@ if (img) {
     }, 1000);
 };
 // working on image changes end here
-
-
